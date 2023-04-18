@@ -1,7 +1,7 @@
 # Method-channels-Practice-Application (Bridging Between Dart and Native Code with Flutter Method Channel for Communication with Each Other)
 
 
-A Flutter project for identifying battery level of a device. In this app I have used method channels for bridging Dart and Platform Specific Code
+A Flutter project for identifying battery level of a device. In this app I have used method channels for bridging Dart and Platform Specific Code(Java)
 
 
 ## Getting Started
